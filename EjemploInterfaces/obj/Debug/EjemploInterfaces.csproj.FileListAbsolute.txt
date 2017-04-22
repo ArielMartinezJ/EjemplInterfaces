@@ -1,0 +1,5 @@
+C:\Users\Stryd\Documents\Visual Studio 2015\Projects\ConsoleApplication1\EjemploInterfaces\EjemploInterfaces\bin\Debug\EjemploInterfaces.exe.config
+C:\Users\Stryd\Documents\Visual Studio 2015\Projects\ConsoleApplication1\EjemploInterfaces\EjemploInterfaces\bin\Debug\EjemploInterfaces.exe
+C:\Users\Stryd\Documents\Visual Studio 2015\Projects\ConsoleApplication1\EjemploInterfaces\EjemploInterfaces\bin\Debug\EjemploInterfaces.pdb
+C:\Users\Stryd\Documents\Visual Studio 2015\Projects\ConsoleApplication1\EjemploInterfaces\EjemploInterfaces\obj\Debug\EjemploInterfaces.exe
+C:\Users\Stryd\Documents\Visual Studio 2015\Projects\ConsoleApplication1\EjemploInterfaces\EjemploInterfaces\obj\Debug\EjemploInterfaces.pdb
